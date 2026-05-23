@@ -102,7 +102,7 @@ public class DataInitializer {
                   "https://github.com/achalporwal/electricity-billing-system"
             ));.
 
-            System.out.println(">> Database successfully refreshed with 10 high-tier technical projects! <<");
+            System.out.println(">> Database successfully refreshed with 11 high-tier technical projects! <<");
         };
     }
 }
