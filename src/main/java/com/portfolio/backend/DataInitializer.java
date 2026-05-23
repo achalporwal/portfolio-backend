@@ -94,6 +94,13 @@ public class DataInitializer {
                     "C++, Graph Structures, OOP Design Patterns",
                     "https://github.com/achalporwal"
             ));
+            //Project 11: Electricity Billing System
+            repository.save(new Project(
+                  "MPWZ Electricity Billing System",
+                  "An enterprise-grade full-stack web utility featuring an automated MPWZ slab-based math calculation engine, normalized MySQL database ledger integration, secure REST endpoints, and high-performance inline PDF receipt generation streamed dynamically to a custom React dashboard.",  
+                  "Java 26, Spring Boot, React.js, MySQL, OpenPDF Engine, Tailwind CSS",
+                  "https://github.com/achalporwal/electricity-billing-system"
+            ));.
 
             System.out.println(">> Database successfully refreshed with 10 high-tier technical projects! <<");
         };
