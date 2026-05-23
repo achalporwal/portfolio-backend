@@ -100,7 +100,7 @@ public class DataInitializer {
                   "An enterprise-grade full-stack web utility featuring an automated MPWZ slab-based math calculation engine, normalized MySQL database ledger integration, secure REST endpoints, and high-performance inline PDF receipt generation streamed dynamically to a custom React dashboard.",  
                   "Java 26, Spring Boot, React.js, MySQL, OpenPDF Engine, Tailwind CSS",
                   "https://github.com/achalporwal/electricity-billing-system"
-            ));.
+            ));
 
             System.out.println(">> Database successfully refreshed with 11 high-tier technical projects! <<");
         };
