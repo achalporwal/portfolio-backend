@@ -11,6 +11,7 @@ public class Project {
     private Long id;
 
     private String title;
+    @Column(columnDefinition = "TEXt")
     private String description;
     private String technologies;
     private String githubLink;
